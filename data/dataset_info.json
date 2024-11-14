@@ -624,5 +624,13 @@
       "prompt": "content"
     },
     "folder": "python"
+  },
+  "fingpt":{
+    "file_name": "fingpt.json",
+    "columns":{
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+    }
   }
 }
