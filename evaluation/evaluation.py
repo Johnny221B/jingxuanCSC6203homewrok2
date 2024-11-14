@@ -5,7 +5,7 @@ from datasets import load_dataset
 import json
 
 # 设置 OpenAI API 密钥
-openai.api_key = "your_openai_api_key"
+openai.api_key = "sk-sdkrciexwfatbhdalpmnumtomsaxveiycxzfxmtcbqbcrvbe"
 
 # 读取Qwen模型的权重
 qwen_model_path = "/home/linyuliu/.cache/modelscope/hub/Qwen/Qwen-VL-7B-Instruct"
